@@ -1,9 +1,7 @@
 ### Hi there 👋
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Konstantinos;" />
 </h1>
-* 👂 My name is Konstantinos
-* 🔭 I’m currently working on GCP Projects
 
 <div align="center">
   <a href="kopapatzimos@gmail.com">
