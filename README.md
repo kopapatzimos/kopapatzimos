@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f2dc355a-0dfa-4fc2-970b-c368bf6cba58)### Hi there 👋
+### Hi there 👋
 * 👂 My name is Konstantinos
 * 🔭 I’m currently working on GCP Projects
 * 📫 How to reach me:
