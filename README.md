@@ -4,6 +4,7 @@
 <hr>
 
 ### A Data engineer passionate about data. Soon Msc Data Scientist!
+### Currently working on LLMs
 
 <div align="center">
   <a href="kopapatzimos@gmail.com">
